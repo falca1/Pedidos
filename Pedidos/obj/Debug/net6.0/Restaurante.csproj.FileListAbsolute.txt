@@ -1,0 +1,15 @@
+C:\cursoWeb\projetos\Pedidos\Pedidos\bin\Debug\net6.0\Restaurante.exe
+C:\cursoWeb\projetos\Pedidos\Pedidos\bin\Debug\net6.0\Restaurante.deps.json
+C:\cursoWeb\projetos\Pedidos\Pedidos\bin\Debug\net6.0\Restaurante.runtimeconfig.json
+C:\cursoWeb\projetos\Pedidos\Pedidos\bin\Debug\net6.0\Restaurante.dll
+C:\cursoWeb\projetos\Pedidos\Pedidos\bin\Debug\net6.0\Restaurante.pdb
+C:\cursoWeb\projetos\Pedidos\Pedidos\obj\Debug\net6.0\Restaurante.csproj.AssemblyReference.cache
+C:\cursoWeb\projetos\Pedidos\Pedidos\obj\Debug\net6.0\Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursoWeb\projetos\Pedidos\Pedidos\obj\Debug\net6.0\Restaurante.AssemblyInfoInputs.cache
+C:\cursoWeb\projetos\Pedidos\Pedidos\obj\Debug\net6.0\Restaurante.AssemblyInfo.cs
+C:\cursoWeb\projetos\Pedidos\Pedidos\obj\Debug\net6.0\Restaurante.csproj.CoreCompileInputs.cache
+C:\cursoWeb\projetos\Pedidos\Pedidos\obj\Debug\net6.0\Restaurante.dll
+C:\cursoWeb\projetos\Pedidos\Pedidos\obj\Debug\net6.0\refint\Restaurante.dll
+C:\cursoWeb\projetos\Pedidos\Pedidos\obj\Debug\net6.0\Restaurante.pdb
+C:\cursoWeb\projetos\Pedidos\Pedidos\obj\Debug\net6.0\Restaurante.genruntimeconfig.cache
+C:\cursoWeb\projetos\Pedidos\Pedidos\obj\Debug\net6.0\ref\Restaurante.dll
